@@ -1,0 +1,21 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.error{
+	border:1px solid red;
+	background-color: #f9b5af;
+	color: red;
+}
+.logout{
+	color:blue;
+}
+.panel panel-default{
+	backgro-color:blue;
+}
+
+
+
+
+

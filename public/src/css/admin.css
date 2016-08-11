@@ -1,0 +1,86 @@
+ .section1{
+ 	margin-left: -100px;
+ }
+
+ header{
+ 	color: #2E5833;
+ 	text-align: center;
+ 	padding-top: 10px;
+	margin-top: -20px;
+
+ }
+
+ .login{
+      width: 500px;
+    }
+
+    label{
+        font-size: 13px;
+        font-weight: normal;
+        color: #402DDD;
+    }
+
+    form{
+    	margin-left: 100px;
+    	height: 300px;
+    }
+
+    .inp{
+    	width: 200px;
+    	height: 25px;
+    }
+
+     .inp2{
+    	width: 400px;
+    	height: 25px;
+    	 
+    }
+
+    .sub{
+    	margin-left: -40px;
+    }
+
+    .sub1{
+    	margin-left: -60px;
+    	margin-top: 10px
+    }
+
+    .sub:hover{
+    	background-color: #2D24C0
+    }
+
+    .account{
+    	color: #042CFE;
+    	margin-top: 10px;
+    	text-align: center;
+    }
+
+    .account:hover{
+    	background-color: #6AAC5D;
+    }
+
+    .sites{
+    	width: 500px;
+    	height: 300px;
+
+    }
+
+    .logout{
+    	margin-left: 250px;
+    }
+
+    .panel1{
+    	width:400px;
+    	height: 450px;
+    }
+
+    .panelmain{
+    	height: 100%;
+    }
+
+    li:hover{
+    	background-color: #3CCB08
+    }
+
+   
+  
